@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 4 – Gyroscope Controlled 3D Chair Visualization
 
 ### 🎯 Learning Objective
@@ -19,3 +20,7 @@ Use MPU6050 gyroscope data to control a 3D chair model in real time.
 - Chair rolls (side motion)
 - Chair spins (yaw)
 - Smooth 3D rotation in real time
+=======
+# week4-gyro-chair-visualization
+Gyroscope-based visualization project using MPU6050 and Arduino UNO. Visualizes real-time pitch, roll, and yaw data in 2D and 3D — including a 3D rotating chair model.
+>>>>>>> 656be78e0bea16f2e15c1862f7f5818d844eefde
