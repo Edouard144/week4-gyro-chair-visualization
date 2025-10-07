@@ -1,0 +1,7 @@
+MPU6050 to Arduino UNO Connections:
+-----------------------------------
+VCC → 5V
+GND → GND
+SDA → A4
+SCL → A5
+INT → Not connected (optional)
